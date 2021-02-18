@@ -20,8 +20,8 @@ Follow these steps to set up and work on your project:
 
 ## Task 2: Finished Project
 1. Add HTML and CSS to make the index page in the repo look like the example: https://codebitsacademy-labtask4.netlify.app/  - note that you can change the colours but everything else must look the same
-2. Include the link to this completed project on Github Pages in the space provided at the top of this README.md file.
-2. don't forget to add, commit and push your changes.
+2. Include the link to the completed project on Github Pages in the space provided at the top of this README.md file.
+2. Don't forget to add, commit and push your changes.
 
 ## Submission
 - [ ] Create a Pull-Request to submit your work (Add your instructor(obahphemmy) as reviewer)
