@@ -13,7 +13,6 @@ Follow these steps to set up and work on your project:
 - [ ] Clone your OWN version of the repository (Not Codebits' by mistake!).
 - [ ] Create a new branch: git checkout -b firstName-lastName.
 - [ ] Implement the project on your newly created <firstName-lastName> branch, committing changes regularly.
-- [ ] Add html elements to the index page in the repo cloned.
 - [ ] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
 - [ ] Push commits: git push origin <firstName-lastName>.
 
